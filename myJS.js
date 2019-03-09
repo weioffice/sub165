@@ -11,7 +11,7 @@ var secondUrl = b1 + b2;//heroku
 
 function getAnimation(){
     // animation data.json URL
-    let commentUulJson = "https://nininenine.github.io/sub161/data.json";
+    let commentUulJson = "https://weioffice.github.io/sub165/data.json";
 
     // amimation action
     var animation = bodymovin.loadAnimation({
